@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
+<id>http://jameslow.com/work/jabberskype/</id>
+<title>JabberSkype AutoUpdate</title>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype.xml" rel="self"/>
+<link href="http://jameslow.com/work/jabberskype/"/>
+<author>
+<name>Limegreen AutoUpdate Generator</name>
+</author>
+<updated>2010-01-11T23:48:39+08:00</updated>
+<entry>
+<id>http://jameslow.com/work/jabberskype/?limegreenbuild=362</id>
+<title>JabberSkype 0.1 (build 362)</title>
+<limegreen:build>362</limegreen:build>
+<limegreen:version>0.1</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-04-19T17:24:08+08:00</updated>
+<link href="http://jameslow.com/work/jabberskype/?limegreenbuild=362"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-win-0.1.zip" length="671957" rel="enclosure" title="JabberSkype Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-mac-0.1.zip" length="419587" rel="enclosure" title="JabberSkype Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-other-0.1.zip" length="381484" rel="enclosure" title="JabberSkype Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-source-0.1.zip" length="3196972" rel="enclosure" title="JabberSkype Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-0.1.dmg" length="437906" rel="enclosure" title="JabberSkype Mac Disk Image" type="application/octet-stream"/>
+<content>Initial version with autoupdate</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/jabberskype/?limegreenbuild=365</id>
+<title>JabberSkype 0.2 (build 365)</title>
+<limegreen:build>365</limegreen:build>
+<limegreen:version>0.2</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2009-09-28T15:30:26+08:00</updated>
+<link href="http://jameslow.com/work/jabberskype/?limegreenbuild=365"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-win-0.2.zip" length="707464" rel="enclosure" title="JabberSkype Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-mac-0.2.zip" length="451278" rel="enclosure" title="JabberSkype Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-other-0.2.zip" length="417153" rel="enclosure" title="JabberSkype Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-source-0.2.zip" length="3416694" rel="enclosure" title="JabberSkype Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-0.2.dmg" length="469273" rel="enclosure" title="JabberSkype Mac Disk Image" type="application/octet-stream"/>
+<content>Updated to latest version of limegreen template</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/jabberskype/?limegreenbuild=366</id>
+<title>JabberSkype 0.21 (build 366)</title>
+<limegreen:build>366</limegreen:build>
+<limegreen:version>0.21</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-01-11T23:48:39+08:00</updated>
+<link href="http://jameslow.com/work/jabberskype/?limegreenbuild=366"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-win-0.21.zip" length="1151896" rel="enclosure" title="JabberSkype Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-mac-0.21.zip" length="895689" rel="enclosure" title="JabberSkype Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-other-0.21.zip" length="861565" rel="enclosure" title="JabberSkype Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-source-0.21.zip" length="3862882" rel="enclosure" title="JabberSkype Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/jabberskype/JabberSkype-0.21.dmg" length="922005" rel="enclosure" title="JabberSkype Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for options on Windows</content>
+</entry>
+</feed>
