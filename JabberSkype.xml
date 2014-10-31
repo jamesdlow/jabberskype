@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
 <id>http://jameslow.com/work/jabberskype/</id>
 <title>JabberSkype AutoUpdate</title>
-<link href="http://jameslow.com/content/software/jabberskype/JabberSkype.xml" rel="self"/>
+<link href="https://raw.githubusercontent.com/jamesdlow/jabberskype/master//JabberSkype.xml" rel="self"/>
 <link href="http://jameslow.com/work/jabberskype/"/>
 <author>
 <name>Limegreen AutoUpdate Generator</name>
 </author>
-<updated>2010-01-11T23:48:39+08:00</updated>
+<updated>2014-10-31T11:4:04+00:00</updated>
 <entry>
 <id>http://jameslow.com/work/jabberskype/?limegreenbuild=362</id>
 <title>JabberSkype 0.1 (build 362)</title>
@@ -52,5 +52,19 @@
 <link href="http://jameslow.com/content/software/jabberskype/JabberSkype-source-0.21.zip" length="3862882" rel="enclosure" title="JabberSkype Source Zip" type="application/zip"/>
 <link href="http://jameslow.com/content/software/jabberskype/JabberSkype-0.21.dmg" length="922005" rel="enclosure" title="JabberSkype Mac Disk Image" type="application/octet-stream"/>
 <content>Fix for options on Windows</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/jabberskype/?limegreenbuild=367</id>
+<title>JabberSkype 0.30 (build 367)</title>
+<limegreen:build>367</limegreen:build>
+<limegreen:version>0.30</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2014-10-31T11:4:04+00:00</updated>
+<link href="http://jameslow.com/work/jabberskype/?limegreenbuild=367"/>
+<link href="https://github.com/jamesdlow/jabberskype/releases/download/0.30//JabberSkype-win-0.30.zip" length="1150230" rel="enclosure" title="JabberSkype Win Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/jabberskype/releases/download/0.30//JabberSkype-mac-0.30.zip" length="894860" rel="enclosure" title="JabberSkype Mac Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/jabberskype/releases/download/0.30//JabberSkype-other-0.30.zip" length="860525" rel="enclosure" title="JabberSkype Other Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/jabberskype/releases/download/0.30//JabberSkype-0.30.dmg" length="929119" rel="enclosure" title="JabberSkype Mac Disk Image" type="application/octet-stream"/>
+<content>New version hosted by GitHub</content>
 </entry>
 </feed>
